@@ -1,4 +1,4 @@
-let GITHUB_ACCESS_TOKEN = ""
+let GITHUB_ACCESS_TOKEN = "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 "
 
 const UF_ID_WRAPPER = 'useful_forks_wrapper';
 const UF_ID_TITLE   = 'useful_forks_title';
